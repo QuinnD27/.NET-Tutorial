@@ -1,0 +1,15 @@
+/Users/quinndevelen/MyApp/bin/Debug/net6.0/MyApp
+/Users/quinndevelen/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/Users/quinndevelen/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/Users/quinndevelen/MyApp/bin/Debug/net6.0/MyApp.dll
+/Users/quinndevelen/MyApp/bin/Debug/net6.0/MyApp.pdb
+/Users/quinndevelen/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/Users/quinndevelen/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quinndevelen/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/Users/quinndevelen/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/Users/quinndevelen/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/quinndevelen/MyApp/obj/Debug/net6.0/MyApp.dll
+/Users/quinndevelen/MyApp/obj/Debug/net6.0/refint/MyApp.dll
+/Users/quinndevelen/MyApp/obj/Debug/net6.0/MyApp.pdb
+/Users/quinndevelen/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
+/Users/quinndevelen/MyApp/obj/Debug/net6.0/ref/MyApp.dll
